@@ -1,0 +1,2 @@
+# text-summarizer
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/27a35a2073e2402d80790c3c13fd806a)](https://app.codacy.com/app/abhianand7/text-summarizer?utm_source=github.com&utm_medium=referral&utm_content=abhianand7/text-summarizer&utm_campaign=Badge_Grade_Dashboard)
